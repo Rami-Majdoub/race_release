@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="my_car_pic_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">red</Value>
+    </Setting>
+    <Setting Name="score1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="score2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="score3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="score4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="score5" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="My_Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Your Name</Value>
+    </Setting>
+    <Setting Name="FB_ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.Facebook.com/</Value>
+    </Setting>
+    <Setting Name="Version_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Top5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Top 5 Scores :
+1) 0
+2) 0
+3) 0
+4) 0
+5) 0</Value>
+    </Setting>
+    <Setting Name="Time" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">201501</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

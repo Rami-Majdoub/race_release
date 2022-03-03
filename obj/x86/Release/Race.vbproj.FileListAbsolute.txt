@@ -1,0 +1,20 @@
+C:\Users\ALI\Documents\Visual Studio 2010\Projects\Race\obj\x86\Release\Race.vbproj.GenerateResource.Cache
+C:\Users\ALI\Documents\Visual Studio 2010\Nouveau dossier\Game\Race.exe.config
+C:\Users\ALI\Documents\Visual Studio 2010\Nouveau dossier\Game\Race.exe
+C:\Users\ALI\Documents\Visual Studio 2010\Nouveau dossier\Game\Race.pdb
+C:\Users\ALI\Documents\Visual Studio 2010\Nouveau dossier\Game\Race.xml
+C:\Users\ALI\Documents\Visual Studio 2010\Projects\Race\obj\x86\Release\Car_Racing.Dialog1.resources
+C:\Users\ALI\Documents\Visual Studio 2010\Projects\Race\obj\x86\Release\Car_Racing.Form1.resources
+C:\Users\ALI\Documents\Visual Studio 2010\Projects\Race\obj\x86\Release\Car_Racing.Resources.resources
+C:\Users\ALI\Documents\Visual Studio 2010\Projects\Race\obj\x86\Release\Car Racing.exe
+C:\Users\ALI\Documents\Visual Studio 2010\Projects\Race\obj\x86\Release\Car Racing.xml
+C:\Users\ALI\Documents\Visual Studio 2010\Projects\Race\obj\x86\Release\Car Racing.pdb
+C:\Users\ALI\Desktop\Car Racing.exe.config
+C:\Users\ALI\Desktop\Car Racing.exe
+C:\Users\ALI\Desktop\Car Racing.pdb
+C:\Users\ALI\Desktop\Car Racing.xml
+C:\Users\ALI\Documents\Visual Studio 2010\Projects\Race\obj\x86\Release\Car_Racing.Dialog2.resources
+C:\Documents and Settings\ali\Bureau\Desktop\Car Racing.exe.config
+C:\Documents and Settings\ali\Bureau\Rami\VB\Projects\Race\obj\x86\Release\Car Racing.exe
+C:\Documents and Settings\ali\Bureau\Rami\VB\Projects\Race\obj\x86\Release\Car Racing.xml
+C:\Documents and Settings\ali\Bureau\Rami\VB\Projects\Race\obj\x86\Release\Car Racing.pdb
