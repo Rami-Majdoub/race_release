@@ -33,6 +33,9 @@ jobs:
           prerelease: true
           
       - name: list
+        run: dir
+          
+      - name: list
         run: dir obj\x86\Release\
         
       - name: Upload Release Asset (x86)
